@@ -56,5 +56,5 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     packages=['sphinxwrapper'],
-    install_requires=['pocketsphinx==0.1.15']
+    install_requires=['pocketsphinx==5.1.1']
 )
